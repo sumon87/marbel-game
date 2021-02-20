@@ -1,0 +1,6 @@
+{
+	"coins_for_completing_puzzle": 20,
+	"cost_of_hint": 10,
+	"cost_of_undo": 2,
+	"coin_points_exchange": 0.1
+}
